@@ -1,0 +1,172 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+header {
+    background-color: rgb(0, 0, 0);
+}
+
+.navbar {
+    padding: 25px 294px 30px 226px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.company-name {
+    font-size: 30px;
+    font-weight: 600;
+    color: #FFFFFF;
+    margin-left: 50px;
+    margin-top: -40px;
+}
+
+.navigation {
+    display: flex;
+    font-size: 20px;
+    font-weight: 400;
+    gap: 40px;
+    margin-left: -180px;
+    margin-top: 11px;
+}
+
+.navigation a {
+    color: White;
+    font-family: sans-serif;
+}
+
+.button {
+    position: absolute;
+    width: 139px;
+    height: 47px;
+    background-color: #FFFFFF;
+    border-radius: 23px;
+    margin-left: -147px;
+    margin-top: -19px;
+    align-items: center;
+    display: flex;
+}
+
+.button p {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: black;
+    margin-left: 20px;
+}
+
+.services {
+    font-size: 30px;
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #64CCC5;
+    margin-left: 660px;
+    margin-top: 100px;
+}
+
+.option {
+    font-size: 60px;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 450px;
+    margin-top: -6px;
+}
+
+.option span {
+    position: absolute;
+    margin-left: 60px;
+}
+
+.icards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 66px;
+    margin-left: 60px;
+}
+
+.icard {
+    width: 422.48px;
+    height: 368.03px;
+    border-radius: 20px;
+    background-color: #0C0C0C;
+    padding: 45px;
+    margin-top: 150px;
+}
+
+.icard-name {
+    font-size: 25px;
+    font-weight: bold;
+    color: #F4F4F4;
+    margin-top: 60px;
+}
+
+.icard-info {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #F4F4F4;
+    margin-top: 15px;
+}
+
+.icard1 {
+    width: 422.48px;
+    height: 368.03px;
+    border-radius: 20px;
+    background-color: #F4F4F4;
+    padding: 45px;
+    margin-top: 150px;
+}
+
+.icard-name1 {
+    font-size: 25px;
+    font-weight: bold;
+    color: #0C0C0C;
+    margin-top: 60px;
+}
+
+.icard-info1 {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #0C0C0C;
+    margin-top: 15px;
+}
+
+.icardss {
+    display: flex;
+    gap: 66px;
+    margin-top: -150px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 664.35px;
+    height: 534px;
+    margin-left: 67px;
+    margin-top: 100px;
+}
+
+.card-name {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.card-info {
+    font-size: 18px;
+    font-weight: 400;
+    color: #0C0C0CE5;
+}
